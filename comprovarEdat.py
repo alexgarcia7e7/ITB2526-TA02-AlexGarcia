@@ -22,4 +22,4 @@ if edat<=18:
 
 
 print("Programa Finalitzat")
-#asdadada
+#prova funcionament push & commit
