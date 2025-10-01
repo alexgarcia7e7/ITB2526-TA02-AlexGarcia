@@ -22,4 +22,5 @@ if edat<=18:
 
 
 print("Programa Finalitzat")
+#prova funcionametn git --> pycharm
 #prova funcionament push & commit
